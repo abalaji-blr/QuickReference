@@ -1,6 +1,6 @@
 # Quick Reference
 ## Computation, Complexity
-- [Introduction to P vs NP](./../Computation/Complexity.md)
+- [Introduction to P vs NP](/Computation/Complexity.md)
 - 
 
 ## Algorithms
