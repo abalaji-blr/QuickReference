@@ -1,4 +1,7 @@
 # Quick Reference
+## Tools
+- [Microsoft Excel - Short cuts & Navigation](./Tools/Excel.md)
+
 ## Computation, Complexity
 - [Introduction to P vs NP](./../Computation/Complexity.md)
 - 
